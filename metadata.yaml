@@ -1,0 +1,36 @@
+_repo: Tender-ButtonsObjects-Food-Rooms_15396
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stein, Gertrude
+    birthdate: 1874
+    deathdate: 1946
+    gutenberg_agent_id: '6032'
+    url: http://www.gutenberg.org/2009/agents/6032
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Stein
+description: Tender Buttons is the best known of Gertrude Stein's hermetic works.
+  It is a small book separated into three sections - Food, Objects and Rooms each
+  containing prose under subtitles. Tender Buttons is one of the great Modern experiments
+  in verse. Simultaneously considered to be a masterpiece of verbal Cubism, a modernist
+  triumph, a spectacular failure, a collection of confusing gibberish, and an intentional
+  hoax, the book is perhaps more often written about than actually read. Divided into
+  three sections- Objects, Food, and Rooms -the book contains a series of descriptions
+  that defy conventional syntax.
+gutenberg_issued: '2005-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Prose poems'
+title: 'Tender Buttons
+
+  Objects—Food—Rooms'
+url: http://www.gutenberg.org/ebooks/15396
